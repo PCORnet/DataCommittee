@@ -2,5 +2,6 @@
 
 This is an initial scratchpad for the PCORnet Data Committee 
 
-the [wiki](wiki) has a bit more info.
+The [wiki](https://github.com/PCORnet/DataCommittee/wiki) is a convenient place for formative notes.
+
 
