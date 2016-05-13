@@ -8,7 +8,7 @@ As described in the [charter] (https://github.com/PCORnet/DataCommittee/wiki/Cha
 - Open and closed issues are described in the [issue tracker] (https://github.com/PCORnet/DataCommittee/issues)  
 
 ###Data Committee leadership
-On Nov 13, 2015, the [PCORnet](http://www.pcornet.org/) Council approved Russ Waitman chair of the Data Committee. ([16 Nov Weekly Announcement](https://pcornet.imeetcentral.com/pcornetmain/blogentry/42989652/))
+On Nov 13, 2015, the [PCORnet](http://www.pcornet.org/) Council approved Russ Waitman chair of the Data Committee. ([20 Nov Announcement](http://www.pcornet.org/2015/11/pcornet-names-chairs-of-data-engagement-and-research-committees/)
 
 ###Data Committee listserv
 To promote transparency and relevance the [data.pcornet listserv archives](http://listserv.kumc.edu/pipermail/data.pcornet/) are publically available for review.
